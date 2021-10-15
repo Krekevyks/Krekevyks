@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hello &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
-<br>
+<br/>
 <img src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif" width="30%" align="right" alt="Github" style="border-radius:50%"/>
 <div align="left">
 <h4>Languages:</h4>
@@ -19,3 +19,7 @@
 Credits: [Krekevyks](https://github.com/krekevyks)
 
 Last edited on: 15/10/2021
+  
+  <img align="center"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=21nw4lsqbjqdrvj7grtvmenuy&cover_image=true&theme=novatorem&bar_color=73d8bc&bar_color_cover=false"
+    alt="spotify" />
