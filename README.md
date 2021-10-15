@@ -16,10 +16,11 @@
 <br/>
   
 ------
+<img align="center"
+src="https://spotify-github-profile.vercel.app/api/view?uid=21nw4lsqbjqdrvj7grtvmenuy&cover_image=true&theme=novatorem&bar_color=73d8bc&bar_color_cover=false"
+alt="spotify" />
+ 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
 Last edited on: 15/10/2021
   
-  <img align="center"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=21nw4lsqbjqdrvj7grtvmenuy&cover_image=true&theme=novatorem&bar_color=73d8bc&bar_color_cover=false"
-    alt="spotify" />
