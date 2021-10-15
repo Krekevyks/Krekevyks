@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hello &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br>
 <img src="https://cdn.discordapp.com/attachments/831410035082002442/841995702003564574/image.png" width="35%" align="right" alt="Github" style="border-radius:50%"/>
 <div align="left">
@@ -12,3 +12,9 @@
 <br>
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=DC143C&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=DC143C&amp;hide_title=true&amp;count_private=true" style="max-width:100%;"/>
 </div>
+<p align="center">
+Credits: [Krekevyks](https://github.com/krekevyks)
+</p>
+<p align="center">
+Last edited on: 15/10/2021
+</p>
