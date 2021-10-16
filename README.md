@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/468802617326436357/898867719238189056/banner.png" alt="cover" />
+<img src="https://cdn.discordapp.com/attachments/468802617326436357/898896674724937728/hero.png" alt="cover" />
 </div>
 
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
@@ -28,3 +28,6 @@ Credits: [Kʀᴇᴋᴇᴠʏᴋs](https://github.com/krekevyks)
 
 Last edited on: 16/10/2021
   
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/468802617326436357/898896681817481247/bottom.png" alt="cover" />
+</div>  
