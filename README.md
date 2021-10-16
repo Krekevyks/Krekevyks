@@ -6,11 +6,11 @@
 <br/>
 <img src="https://c.tenor.com/myPHsReL2YIAAAAd/hacker.gif" width="30%" align="right" alt="Github" style="border-radius:50%"/>
 <div align="left">
-<h4>Languages</h4>
+<h4>&lt;Languages/&gt;</h4>
 <img src="https://img.shields.io/badge/html5-73d8BC?style=for-the-badge&logo=html5&logoColor=22775f" alt="html5"/> 
 <img src="https://img.shields.io/badge/Css3-73d8BC?style=for-the-badge&logo=css3&logoColor=22775f" alt="css3"/>
 <img src="https://img.shields.io/badge/javascript-73d8BC?style=for-the-badge&logo=javascript&logoColor=22775f" alt="javascript"/>
-<h4>Languages that im learning</h4>
+<h4>&lt;Languages that im learning/&gt;</h4>
 <img src="https://img.shields.io/badge/java-73d8BC?style=for-the-badge&logo=java&logoColor=22775f" alt="java"/>
 </div>
 <br/>
