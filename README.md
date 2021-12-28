@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from czech republic.&descAlign=64.&descAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from Czech Republic.&descAlign=64.&descAlignY=45" />
 </div>
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
