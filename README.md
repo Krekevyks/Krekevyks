@@ -5,25 +5,28 @@
 <br/>
 <h3>&lt;About me/&gt; !</h3>
 
-> <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/321/321224.png" width="14px" style="max-width:100%;"> ● Live in Czechia<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/321/321224.png" width="14px" style="max-width:100%;"> ● Live in Czechia.<br></br>
 > <img src="https://cdn-icons-png.flaticon.com/512/448/448003.png" width="14px" style="max-width:100%;"> ● 30.12.
 
 <br></br>
 <h4>&lt;Pc Gear/&gt;</h4>
 
-> <img src="https://cdn-icons-png.flaticon.com/512/4617/4617728.png" width="14px" style="max-width:100%;"> ● Glorious Model O (Matte Black).<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/2867/2867522.png" width="14px" style="max-width:100%;"> ● Kingston HyperX Alloy FPS Cherry MX RED US.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/3791/3791461.png" width="14px" style="max-width:100%;"> ● HyperX Cloud II.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="14px" style="max-width:100%;"> ● Main MSI G24C4 144Hz.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="14px" style="max-width:100%;"> ● Second MSI G24C4 144Hz.
+> <img src="https://cdn-icons-png.flaticon.com/512/4617/4617728.png" width="14px" style="max-width:100%;"> ● Glorious Model O (Matte Black) **(Mouse)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/2867/2867522.png" width="14px" style="max-width:100%;"> ● Kingston HyperX Alloy FPS Cherry MX RED US **(KEYBOARD)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/715/715275.png" width="14px" style="max-width:100%;"> ● Genesis Radium 400 **(MICROPHONE)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/3791/3791461.png" width="14px" style="max-width:100%;"> ● HyperX Cloud II **(HEADPHONES)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="14px" style="max-width:100%;"> ● Main MSI G24C4 144Hz **(MONITOR)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="14px" style="max-width:100%;"> ● Second MSI G24C4 144Hz **(MONITOR)**.
 <br></br>
 <h4>&lt;Pc Parts/&gt;</h4>
 
-> <img src="https://cdn-icons-png.flaticon.com/512/543/543238.png" width="14px"> ● hp 7EH55AA 8GB DDR4 SDRAM.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/141/141009.png" width="14px"> ● MSI H310M PRO-VDH PLUS (MS-7C09) Chipset Intel H310C (Kaby Lake).<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/984/984391.png" width="14px"> ● Intel Core i3-9100F.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/1088/1088742.png" width="14px"> ● AMD Radeon RX 570 (Polaris 20 XL) [ASRock] 8GB.
+> <img src="https://cdn-icons-png.flaticon.com/512/543/543238.png" width="14px"> ● hp 7EH55AA 8GB DDR4 SDRAM **(RAM)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/141/141009.png" width="14px"> ● MSI H310M PRO-VDH PLUS (MS-7C09) Chipset Intel H310C (Kaby Lake) **(MOTHERBOARD)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/984/984391.png" width="14px"> ● Intel Core i3-9100F **(CPU)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/2288/2288028.png" width="14px"> ● HP SSD S700 250GB **(SDD)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/287/287390.png" width="14px"> ● WDC WD10EZEx-75WN4A1 1TB **(HDD)**.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/1088/1088742.png" width="14px"> ● AMD Radeon RX 570 (Polaris 20 XL) [ASRock] 8GB **(GPU)**.
 <br></br>
 <img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="30%" align="right"/>
 <div align="left">
