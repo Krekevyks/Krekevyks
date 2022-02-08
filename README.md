@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/javascript-dc143c?style=for-the-badge&logo=javascript&logoColor=111b20" alt="javascript"/>
 <h4>&lt;Languages that im learning/&gt;</h4>
 <img src="https://img.shields.io/badge/java-dc143c?style=for-the-badge&logo=java&logoColor=111b20" alt="java"/>
+ <img src="https://img.shields.io/badge/lua-dc143c?style=for-the-badge&logo=lua&logoColor=111b20" alt="lua"/>
 </div>
 <br/>
 <h4>&lt;Stats/&gt;</h4>
