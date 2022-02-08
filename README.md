@@ -3,6 +3,7 @@
 </div>
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
+<img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="30%" align="right"/>
 <h3>&lt;About me/&gt; !</h3>
 
 > <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**.<br></br>
@@ -28,7 +29,6 @@
 > <img src="https://cdn-icons-png.flaticon.com/512/287/287390.png" width="14px"> ● WDC WD10EZEx-75WN4A1 1TB **(HDD)**.<br></br>
 > <img src="https://cdn-icons-png.flaticon.com/512/1088/1088742.png" width="14px"> ● AMD Radeon RX 570 (Polaris 20 XL) [ASRock] 8GB **(GPU)**.
 <br></br>
-<img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="30%" align="right"/>
 <div align="left">
 <h4>&lt;Languages/&gt;</h4>
   
@@ -54,7 +54,7 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 28/01/2022
+Last edit on: 08/02/2022
   
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
