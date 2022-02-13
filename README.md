@@ -7,7 +7,7 @@
 <h3>&lt;About me/&gt; !</h3>
 
 > <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**.<br></br>
-> <img src="https://cdn-icons-png.flaticon.com/512/321/321224.png" width="14px" style="max-width:100%;"> ● Live in Czechia.<br></br>
+> <img src="https://cdn-icons-png.flaticon.com/512/321/321224.png" width="14px" style="max-width:100%;"> ● Live in Czech Republic.<br></br>
 > <img src="https://cdn-icons-png.flaticon.com/512/448/448003.png" width="14px" style="max-width:100%;"> ● 30.12.
 
 <br></br>
@@ -55,7 +55,7 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 08/02/2022
+Last edit on: 13/02/2022
   
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
