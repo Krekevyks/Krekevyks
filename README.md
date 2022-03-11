@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from Czech Republic.&descAlign=64.&descAlignY=45" />
 </div>
+
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
-<img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="30%" align="right"/>
+<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://cdn.discordapp.com/attachments/481262770650873859/951775431575609405/banner_v3.png" align="right"/></a>
+<img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="27.9%" align="right"/>
 <h3>&lt;About me/&gt; !</h3>
 
 > <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**.<br></br>
@@ -55,8 +57,8 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 13/02/2022
-  
+Last edit on: 11/03/2022
+</div>
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
 </div>  
