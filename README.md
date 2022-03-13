@@ -43,7 +43,10 @@
 </div>
 <br/>
 <h4>&lt;Stats/&gt;</h4>
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=dc143c&amp;hide_title=true&amp;count_private=true" style="max-width:100%;"/>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=dc143c&amp;hide_title=true&amp;count_private=true"/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/237616896948699136)](https://discord.com/users/237616896948699136)
+
 </div>
 
 <h4>&lt;Used colors/&gt;</h4>
@@ -57,7 +60,7 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 11/03/2022
+Last edit on: 13/03/2022
 </div>
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
