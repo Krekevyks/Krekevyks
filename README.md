@@ -4,7 +4,8 @@
 
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
-<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://cdn.discordapp.com/attachments/481262770650873859/951775431575609405/banner_v3.png" align="right"/></a>
+<p align="center">
+<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://cdn.discordapp.com/attachments/481262770650873859/951775431575609405/banner_v3.png"/></a></p>
 <img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="27.9%" align="right"/>
 <h3>&lt;About me/&gt; !</h3>
 
@@ -45,7 +46,7 @@
 <h4>&lt;Stats/&gt;</h4>
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=dc143c&amp;hide_title=true&amp;count_private=true"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/237616896948699136)](https://discord.com/users/237616896948699136)
+[![Discord Presence](https://lanyard.cnrad.dev/api/237616896948699136?bg=00000000)](https://discord.com/users/237616896948699136)
 
 </div>
 
