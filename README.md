@@ -4,8 +4,11 @@
 
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
-<p align="center">
-<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://cdn.discordapp.com/attachments/481262770650873859/951775431575609405/banner_v3.png"/></a></p>
+<p>
+<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://img.shields.io/badge/ayo.so-dc143c?style=flat&logo=mcdonald's&logoColor=111b20"/></a>
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/discord-dc143c?style=flat&logo=discord&logoColor=111b20"/></a>
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord Bot-dc143c?style=flat&logo=discord&logoColor=111b20"/></a>
+</p>
 <img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="27.9%" align="right"/>
 <h3>&lt;About me/&gt; !</h3>
 
@@ -35,12 +38,12 @@
 <div align="left">
 <h4>&lt;Languages/&gt;</h4>
   
-<img src="https://img.shields.io/badge/html5-dc143c?style=for-the-badge&logo=html5&logoColor=111b20" alt="html5"/> 
-<img src="https://img.shields.io/badge/Css3-dc143c?style=for-the-badge&logo=css3&logoColor=111b20" alt="css3"/>
-<img src="https://img.shields.io/badge/javascript-dc143c?style=for-the-badge&logo=javascript&logoColor=111b20" alt="javascript"/>
+<img src="https://img.shields.io/badge/html5-dc143c?style=flat&logo=html5&logoColor=111b20" alt="html5"/> 
+<img src="https://img.shields.io/badge/Css3-dc143c?style=flat&logo=css3&logoColor=111b20" alt="css3"/>
+<img src="https://img.shields.io/badge/javascript-dc143c?style=flat&logo=javascript&logoColor=111b20" alt="javascript"/>
 <h4>&lt;Languages that im learning/&gt;</h4>
-<img src="https://img.shields.io/badge/java-dc143c?style=for-the-badge&logo=java&logoColor=111b20" alt="java"/>
- <img src="https://img.shields.io/badge/lua-dc143c?style=for-the-badge&logo=lua&logoColor=111b20" alt="lua"/>
+<img src="https://img.shields.io/badge/java-dc143c?style=flat&logo=java&logoColor=111b20" alt="java"/>
+ <img src="https://img.shields.io/badge/lua-dc143c?style=flat&logo=lua&logoColor=111b20" alt="lua"/>
 </div>
 <br/>
 <h4>&lt;Stats/&gt;</h4>
@@ -61,7 +64,7 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 13/03/2022
+Last edit on: 03/04/2022
 </div>
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
