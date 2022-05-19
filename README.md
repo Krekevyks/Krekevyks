@@ -53,18 +53,13 @@
 
 </div>
 
-<h4>&lt;Used colors/&gt;</h4>
-
-- ![#111b20](https://via.placeholder.com/15/111b20/000000?text=+) `#111b20`
-- ![#dc143c](https://via.placeholder.com/15/dc143c/000000?text=+) `#dc143c` 
-
 <div align="center">
 <br/>
   
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 03/04/2022
+Last edit on: 05/19/2022
 </div>
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
