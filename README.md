@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from Czech Republic.&descAlign=64.&descAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from Czech Republic.&descAlign=64.&descAlignY=45" />
 </div>
 
 <h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
 <br/>
 <p>
-<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://img.shields.io/badge/ayo.so-dc143c?style=flat&logo=mcdonald's&logoColor=111b20"/></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/discord-dc143c?style=flat&logo=discord&logoColor=111b20"/></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord Bot-dc143c?style=flat&logo=discord&logoColor=111b20"/></a>
+<a href="https://ayo.so/krekevyks" target="_blank"><img src="https://img.shields.io/badge/ayo.so-FF0000?style=flat&logo=mcdonald's&logoColor=111b20"/></a>
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/discord-FF0000?style=flat&logo=discord&logoColor=111b20"/></a>
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord Bot-FF0000?style=flat&logo=discord&logoColor=111b20"/></a>
 </p>
-<img src="https://cdn.discordapp.com/attachments/577493868938002442/925370421019279360/profile_photo.png" width="27.9%" align="right"/>
+<img src="https://cdn.discordapp.com/attachments/468802617326436357/977151839713759282/notion-avatar-1653041072607_4.png" width="27.9%" align="right"/>
 <h3>&lt;About me/&gt; !</h3>
 
 > <img src="https://cdn-icons-png.flaticon.com/512/998/998375.png" width="14px" style="max-width:100%;"> ● My Name is **&lt;Lukas/&gt;**.<br></br>
@@ -38,16 +38,16 @@
 <div align="left">
 <h4>&lt;Languages/&gt;</h4>
   
-<img src="https://img.shields.io/badge/html5-dc143c?style=flat&logo=html5&logoColor=111b20" alt="html5"/> 
-<img src="https://img.shields.io/badge/Css3-dc143c?style=flat&logo=css3&logoColor=111b20" alt="css3"/>
-<img src="https://img.shields.io/badge/javascript-dc143c?style=flat&logo=javascript&logoColor=111b20" alt="javascript"/>
+<img src="https://img.shields.io/badge/html5-FF0000?style=flat&logo=html5&logoColor=111b20" alt="html5"/> 
+<img src="https://img.shields.io/badge/Css3-FF0000?style=flat&logo=css3&logoColor=111b20" alt="css3"/>
+<img src="https://img.shields.io/badge/javascript-FF0000?style=flat&logo=javascript&logoColor=111b20" alt="javascript"/>
 <h4>&lt;Languages that im learning/&gt;</h4>
-<img src="https://img.shields.io/badge/java-dc143c?style=flat&logo=java&logoColor=111b20" alt="java"/>
- <img src="https://img.shields.io/badge/lua-dc143c?style=flat&logo=lua&logoColor=111b20" alt="lua"/>
+<img src="https://img.shields.io/badge/java-FF0000?style=flat&logo=java&logoColor=111b20" alt="java"/>
+ <img src="https://img.shields.io/badge/lua-FF0000?style=flat&logo=lua&logoColor=111b20" alt="lua"/>
 </div>
 <br/>
 <h4>&lt;Stats/&gt;</h4>
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=dc143c&amp;hide_title=true&amp;count_private=true"/>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krekevyks&layout=compact&amp;show_icons=true&amp;title_color=FF0000&amp;text_color=cccccc&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=FF0000&amp;hide_title=true&amp;count_private=true"/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/237616896948699136?bg=00000000)](https://discord.com/users/237616896948699136)
 
@@ -59,10 +59,10 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 05/19/2022
+Last edit on: 05/20/2022
 </div>
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=slice&color=dc143c&height=200&section=footer" alt="cover" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&section=footer" alt="cover" />
 </div>  
 
   
