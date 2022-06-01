@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&text=Krekevyks&fontAlign=70&rotate=13&fontAlignY=25&desc=Boy from Czech Republic.&descAlign=64.&descAlignY=45" />
 </div>
 
-<h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"></h1>
+<h1 align="center"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hᴇʟʟᴏ ғᴇʟʟᴏᴡ &lt;Cᴏᴅᴇʀs/&gt; ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px" height="24px"></h1>
 <br/>
 <p>
 <a href="https://ayo.so/krekevyks" target="_blank"><img src="https://img.shields.io/badge/ayo.so-FF0000?style=flat&logo=mcdonald's&logoColor=111b20"/></a>
@@ -59,7 +59,7 @@
 
 Credits: [Krekevyks](https://github.com/krekevyks)
 
-Last edit on: 05/20/2022
+Last edit on: 06/01/2022
 </div>
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&section=footer" alt="cover" />
