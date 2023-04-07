@@ -6,10 +6,16 @@
 
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%2300000000.svg?style=for-the-badge&logo=discord&logoColor=%235865f2)](htttps://dsc.gg/sanrioheaven) [![Instagram](https://img.shields.io/badge/Instagram-%2300000000.svg?style=for-the-badge&logo=Instagram&logoColor=%23c13584)](https://instagram.com/it.krekevyks) [![Twitch](https://img.shields.io/badge/Twitch-%2300000000.svg?style=for-the-badge&logo=Twitch&logoColor=%239146ff)](https://twitch.tv/krekevyks) [![Twitter](https://img.shields.io/badge/Twitter-%2300000000.svg?style=for-the-badge&logo=Twitter&logoColor=%231da1f2)](https://twitter.com/krekevyks1) [![YouTube](https://img.shields.io/badge/YouTube-%2300000000.svg?style=for-the-badge&logo=YouTube&logoColor=%23ff0000)](https://youtube.com/c/Krekevyks) 
+[![Discord](https://img.shields.io/badge/-%2300000000.svg?style=for-the-badge&logo=discord&logoColor=%235865f2)](htttps://dsc.gg/sanrioheaven) 
+[![Instagram](https://img.shields.io/badge/-%2300000000.svg?style=for-the-badge&logo=Instagram&logoColor=%23c13584)](https://instagram.com/it.krekevyks) 
+[![Twitch](https://img.shields.io/badge/-%2300000000.svg?style=for-the-badge&logo=Twitch&logoColor=%239146ff)](https://twitch.tv/krekevyks) 
+[![Twitter](https://img.shields.io/badge/-%2300000000.svg?style=for-the-badge&logo=Twitter&logoColor=%231da1f2)](https://twitter.com/krekevyks1) 
+[![YouTube](https://img.shields.io/badge/-%2300000000.svg?style=for-the-badge&logo=YouTube&logoColor=%23ff0000)](https://youtube.com/c/Krekevyks) 
 
 # 💻 Languages:
-![HTML5](https://img.shields.io/badge/html5-%2300000000.svg?style=for-the-badge&logo=html5&logoColor=%23e34f26) ![CSS3](https://img.shields.io/badge/css3-%2300000000.svg?style=for-the-badge&logo=css3&logoColor=%233C99DC) ![JavaScript](https://img.shields.io/badge/javascript-%2300000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%2300000000.svg?style=for-the-badge&logo=html5&logoColor=%23e34f26) 
+![CSS3](https://img.shields.io/badge/css3-%2300000000.svg?style=for-the-badge&logo=css3&logoColor=%233C99DC) 
+![JavaScript](https://img.shields.io/badge/javascript-%2300000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # ✨ Frameworks, Platforms & Libraries:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2300000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2301b7d6) ![NPM](https://img.shields.io/badge/NPM-%2300000000.svg?style=for-the-badge&logo=npm&logoColor=%23cb3837)
