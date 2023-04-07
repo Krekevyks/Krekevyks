@@ -24,7 +24,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%2300000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 🖌️ Design:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2300000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
+![Adobe Photoshop](https://img.shields.io/badge/adobe photoshop-%2300000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
 
 # 📊 GitHub Stats:
 
